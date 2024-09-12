@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is _Malachi Bell_
 <!--
 **Malachi09-prog/Malachi09-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
