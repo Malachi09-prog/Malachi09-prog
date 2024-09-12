@@ -1,9 +1,10 @@
 ## Hi there 👋
 My name is _Malachi Bell_  
-I’m currently working on CS50 Programming 
-**Malachi09-prog/Malachi09-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I’m currently working on CS50 Programming  
+I'm looking to collaborate on games designs  
+I'm looking for help with learning other computer languages  
+Ask me about my knowledge on python  
+How to reach me: <a href='mailto: malachibell270@gmail.com'
 
 - 🔭
 - 🌱 I’m currently learning ...
