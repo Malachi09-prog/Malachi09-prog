@@ -7,3 +7,5 @@
 📫 How to reach me: <a href='mailto: malachibell270@gmail.com'
 😄 Pronouns: He, Him  
 ⚡ Fun facts about me: I love to run, play sport, and play games
+## 🛠 Technology Stack  
+*some Python/ Markdown
