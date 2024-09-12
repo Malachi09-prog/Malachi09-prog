@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 My name is _Malachi Bell_  
+🔭 My name is _Malachi Bell_ I am 16 years old  
 🌱 I’m currently working on CS50 Programming  
 👯 I'm looking to collaborate on games designs  
 🤔 I'm looking for help with learning other computer languages  
