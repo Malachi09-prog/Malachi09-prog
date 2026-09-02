@@ -2,6 +2,8 @@ Module Program
     Sub Main()
         Dim name As String
         Dim age As Integer
+        Dim Question As Boolean
+
         Console.Write("Enter your name: ")
         name = Console.ReadLine()
 
