@@ -1,0 +1,15 @@
+/workspaces/Malachi09-prog/MyVBProgram/bin/Debug/net10.0/MyVBProgram
+/workspaces/Malachi09-prog/MyVBProgram/bin/Debug/net10.0/MyVBProgram.deps.json
+/workspaces/Malachi09-prog/MyVBProgram/bin/Debug/net10.0/MyVBProgram.runtimeconfig.json
+/workspaces/Malachi09-prog/MyVBProgram/bin/Debug/net10.0/MyVBProgram.dll
+/workspaces/Malachi09-prog/MyVBProgram/bin/Debug/net10.0/MyVBProgram.pdb
+/workspaces/Malachi09-prog/MyVBProgram/obj/Debug/net10.0/MyVBProgram.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Malachi09-prog/MyVBProgram/obj/Debug/net10.0/MyVBProgram.AssemblyInfoInputs.cache
+/workspaces/Malachi09-prog/MyVBProgram/obj/Debug/net10.0/MyVBProgram.AssemblyInfo.vb
+/workspaces/Malachi09-prog/MyVBProgram/obj/Debug/net10.0/MyVBProgram.vbproj.CoreCompileInputs.cache
+/workspaces/Malachi09-prog/MyVBProgram/obj/Debug/net10.0/MyVBProgram.sourcelink.json
+/workspaces/Malachi09-prog/MyVBProgram/obj/Debug/net10.0/MyVBProgram.dll
+/workspaces/Malachi09-prog/MyVBProgram/obj/Debug/net10.0/refint/MyVBProgram.dll
+/workspaces/Malachi09-prog/MyVBProgram/obj/Debug/net10.0/MyVBProgram.pdb
+/workspaces/Malachi09-prog/MyVBProgram/obj/Debug/net10.0/MyVBProgram.genruntimeconfig.cache
+/workspaces/Malachi09-prog/MyVBProgram/obj/Debug/net10.0/ref/MyVBProgram.dll
