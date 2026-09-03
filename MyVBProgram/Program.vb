@@ -11,7 +11,13 @@ Module Program
 
         Console.Write("Enter your age: ")
         age = Integer.Parse(Console.ReadLine())
-
+        if age < 13 Then
+            Console.WriteLine("You are a child.")
+        ElseIf age >= 13 And age < 20 Then
+            Console.WriteLine("You are a teenager.")
+        Else
+            Console.WriteLine("You are an adult.")
+        End If
         Console.Write("Do you like ice cream? (true/false): ")
         Question = Boolean.Parse(Console.ReadLine())
         if Question = True Then
