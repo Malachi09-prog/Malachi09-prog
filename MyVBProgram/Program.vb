@@ -29,7 +29,7 @@ Module Program
             Return
         End If
         if age < 18 Then
-            Console.WriteLine("You are too young to answer this question.")
+            Console.WriteLine("You are too young to answer this. ")
         ElseIf age >= 18 And age < 65 Then
             Console.WriteLine("You Can Vote!")
         End If
