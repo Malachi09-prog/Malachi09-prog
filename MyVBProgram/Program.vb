@@ -7,20 +7,16 @@ Module Program
         Dim answer As String
         
         ' Asking the user for their name, age, and favorite color
-        Console.Write("Enter your name: ")
+        Console.Write("Whats your name?: ")
         name = Console.ReadLine()
 
         Console.Write("Enter your age: ")
-        if Not Integer.TryParse(Console.ReadLine(), age) Then
-            Console.WriteLine("Invalid input. Please enter a valid integer for age.")
-            Return
-        End If
         age = Integer.Parse(Console.ReadLine())
 
         ' Using an if statement to determine the age group of the user
         if age < 13 Then
             Console.WriteLine("You are a child.")
-        ElseIf age >= 13 And age < 20 Then
+        ElseIf age >= 13 And age < 18 Then
             Console.WriteLine("You are a teenager.")
         Else
             Console.WriteLine("You are an adult.")
@@ -28,15 +24,6 @@ Module Program
 
         ' Asking the user if they like ice cream and storing their response in a boolean variable
         Console.Write("Do you like ice cream? (true/false): ")
-        if Not Boolean.TryParse(Console.ReadLine(), Question) Then
-            Console.WriteLine("Invalid input. Please enter 'true' or 'false'.")
-            Return
-        End If
-        if age < 18 Then
-            Console.WriteLine("You are too young to answer this. ")
-        ElseIf age >= 18 And age < 65 Then
-            Console.WriteLine("You Can Vote!")
-        End If
         Question = Boolean.Parse(Console.ReadLine())
         if Question = True Then
             Console.WriteLine("You like ice cream!")

@@ -1,0 +1,28 @@
+module pseudocode
+    sub main()
+        ' Declaring each Variable
+        dim name as string
+        dim age as integer
+        dim Question as boolean
+        dim answer as string
+        
+        ' Asking the user for their name, age, and favorite color
+        console.write("Whats your name?: ")
+        name = console.readline()
+        
+        console.write("Enter your age: ")
+        age = integer.parse(console.readline())
+        
+        ' Using an if statement to determine the age group of the user
+        if age < 13 then
+            console.writeline("You are a child.")
+        elseif age >= 13 and age < 20 then
+            console.writeline("You are a teenager.")
+        else
+            console.writeline("You are an adult.")
+        end if
+        
+        ' Asking the user if they like ice cream and storing their response in a boolean variable
+        console.write("Do you like ice cream? (true/false): ")
+        Question = boolean.parse(console.readline())
+        
