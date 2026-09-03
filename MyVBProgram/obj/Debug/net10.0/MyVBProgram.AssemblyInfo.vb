@@ -15,7 +15,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("MyVBProgram"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+497788a301cce75f3ca9d1fe8070f25891de560f"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52c4e142aac4e40f6697f8fce0a0171ede4cdeb1"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("MyVBProgram"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("MyVBProgram"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
