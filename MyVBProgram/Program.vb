@@ -11,6 +11,10 @@ Module Program
         name = Console.ReadLine()
 
         Console.Write("Enter your age: ")
+        if Not Integer.TryParse(Console.ReadLine(), age) Then
+            Console.WriteLine("Invalid input. Please enter a valid integer for age.")
+            Return
+        End If
         age = Integer.Parse(Console.ReadLine())
 
         ' Using an if statement to determine the age group of the user
